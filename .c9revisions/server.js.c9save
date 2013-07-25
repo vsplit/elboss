@@ -1,1 +1,3 @@
 {"ts":1374770904904,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"console.log(\"hello ! \");"]],"start1":0,"start2":0,"length1":0,"length2":24}]],"length":24}
+{"contributors":[],"silentsave":false,"ts":1374774292704,"patch":[[{"diffs":[[0,"\"hello !"],[-1," "],[0,"\");"]],"start1":12,"start2":12,"length1":12,"length2":11}]],"length":23,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1374779673520,"patch":[[{"diffs":[[0,"llo !\");"],[1,"\n"]],"start1":15,"start2":15,"length1":8,"length2":9}]],"length":24,"saved":false}
